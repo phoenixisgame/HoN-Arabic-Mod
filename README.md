@@ -1,27 +1,47 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8674fb88-13a2-41f1-9e88-4534385e1c85" width="600" alt="HoN Arabic Logo">
-</p>
+# HoN-Arabic-Mod (Heroes of Newerth)
 
-<h1 align="center">Heroes of Newerth - النسخة العربية</h1>
+[![Support Project](https://img.shields.io/badge/Support_Project-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)](https://phoenixisgame.github.io/HoN-Arabic-Mod/)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-gold?style=for-the-badge&logo=github)](https://github.com/phoenixisgame/HoN-Arabic-Mod/releases)
 
-<p align="center">
-  <strong>مشروع تعريب شامل واحترافي للعبة Heroes of Newerth (HoN)</strong>
-</p>
+Run `HoN_Arabic_Setup_V1.exe`, click **"تثبيت التعريب الكامل"**, and launch the game directly. Enjoy!
 
-## 🎮 عن المشروع
-يهدف هذا المشروع إلى تقديم تعريب دقيق لقوائم اللعبة، قدرات الأبطال (Skills)، والعناصر (Items) بأسلوب احترافي يناسب ألعاب الموبا (MOBA)، مع الحفاظ التام على الأكواد البرمجية والمتغيرات الأصلية داخل نصوص اللعبة لضمان استقرار الأداء.
+---
 
-## ⚙️ طريقة التثبيت
-*(سيتم إضافة خطوات التثبيت وتفعيل المود قريباً...)*
+Hey everyone! 🎮
 
-## ☕ دعم المشروع والتطوير
-إذا أعجبك التعريب وترغب في دعم استمرارية مشاريعنا، يمكنك المساهمة عبر العملات الرقمية:
+I'm excited to announce that **Version 1.0** of the official Arabic localization mod for **Heroes of Newerth (HoN)** is now officially released!
 
-<p align="center">
-  <a href="https://phoenixisgame.github.io/HoN-Arabic-Mod/">
-    <img src="https://img.shields.io/badge/Support_Project-Donate_BNB_/_USDT-F3BA2F?style=for-the-badge&logo=binance&logoColor=white" alt="Donate">
-  </a>
-</p>
+🔥 **What's new in v1.0?**
+* 🇩🇿 **Full Arabic Interface & Menus:** Complete and authentic localization for menus, game settings, and UI elements.
+* ⚔️ **Heroes & Skills in Arabic:** In-depth translation of hero abilities and lore while strictly maintaining original game mechanics.
+* 📦 **All-in-One Standalone Installer:** Single standalone launcher (`HoN_Arabic_Setup_V1.exe`) — no Python or extra tools required.
+* 🔄 **Smart Auto-Update Checker:** Automatic, safe notifications when a newer official release is available on GitHub.
+* 🛡️ **Safe Direct Engine Launch:** Launch directly through `hon.exe` preventing any external launcher from resetting files.
 
-> **عنوان المحفظة (BEP20 فقط):** 
-> `0x3a2570697b7a08df95f16d376ac5fbe927d2366c`
+* **Game:** Heroes of Newerth (HoN)
+* **Version:** Arabic Localization v1.0
+* **Creator:** phoenixisgame
+
+---
+
+## 🇸🇦 النسخة العربية
+### اكتمال الإصدار الرسمي V1 من تعريب أسطورة الموبا Heroes of Newerth! 🇩🇿🔥
+
+السلام عليكم يا أبطال Newerth وعشاق ألعاب الموبا! ⚔️🛡️
+
+يسعدني ويشرفني الإعلان عن إطلاق **الإصدار الرسمي الأول (v1.0)** من مشروع التعريب الكامل للعبة **Heroes of Newerth (HoN)**!
+
+🔥 **ما الجديد في الإصدار V1؟**
+* 🇩🇿 **تعريب شامل واحترافي للواجهة:** تعريب كامل ودقيق للقوائم الرئيسية، الإعدادات، وشاشات اللعبة بأسلوب يناسب روح الموبا التنافسية.
+* ⚔️ **المهارات والأبطال بالعربية:** ترجمة واضحة ومدروسة لقدرات الأبطال وتفاصيلهم مع الحفاظ الكامل على استقرار الأكواد لمنع أي كراش.
+* 📦 **برنامج تثبيت شامل ومستقل (All-in-One):** ملف تنفيذي واحد ذكي `HoN_Arabic_Setup_V1.exe` يقوم بكل شيء بنقرة زر ودون الحاجة لأي برامج إضافية.
+* 🔄 **نظام فحص التحديثات الذكي:** إشعارك فوراً وبأمان عند صدور أي تحديث رسمي جديد على GitHub.
+* 🛡️ **نظام التشغيل المباشر الآمن:** تشغيل اللعبة مباشرة لتفادي قيام لانشر Juvio بمسح ملفات التعريب.
+
+---
+
+* **اللعبة:** Heroes of Newerth (HoN)
+* **الإصدار:** تعريب V1 الرسمي
+* **صاحب المشروع:** phoenixisgame
+
+❤️ **شكرًا جزيلاً لكل من يدعم استمرارية وتطوير مشاريعنا!**
