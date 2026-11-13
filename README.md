@@ -5,6 +5,8 @@
 
 Run `HoN_Arabic_Setup_V1.exe`, click **"تثبيت التعريب الكامل"**, and launch the game directly. Enjoy!
 
+<img width="1280" height="1068" alt="Hon arabicM  Logo" src="https://github.com/user-attachments/assets/3b16d134-6986-4112-8f5e-8964c9c29e97" />
+
 ---
 
 Hey everyone! 🎮
