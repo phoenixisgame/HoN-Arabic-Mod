@@ -26,6 +26,8 @@ I'm excited to announce that **Version 1.0** of the official Arabic localization
 
 ---
 
+<div dir="rtl">
+
 ## 🇸🇦 النسخة العربية
 ### اكتمال الإصدار الرسمي V1 من تعريب أسطورة الموبا Heroes of Newerth! 🇩🇿🔥
 
@@ -47,3 +49,5 @@ I'm excited to announce that **Version 1.0** of the official Arabic localization
 * **صاحب المشروع:** phoenixisgame
 
 ❤️ **شكرًا جزيلاً لكل من يدعم استمرارية وتطوير مشاريعنا!**
+
+</div>
